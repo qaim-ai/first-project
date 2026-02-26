@@ -31,4 +31,4 @@ if discount == "y":
 else:
     print("Thanks for purchasing the items")
     print("Your Total is :", total)
- 
+ gdsf
